@@ -1624,7 +1624,7 @@ input, select, textarea {
 		.image.featured2 {
 			display: block;
 			width: 70%;
-			margin: 0 1em 1em 0;
+			margin: 1em 1em 1em;
 		}
 
 /* Button */
