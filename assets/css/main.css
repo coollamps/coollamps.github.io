@@ -1843,10 +1843,19 @@ input, select, textarea {
 		.feature-list section {
 			border-top: solid 1px #eee;
 			padding-top: 3em;
-			padding-left: 5em;
 			position: relative;
 		}
+        .feature-list img {
+            width: 13em;
+            height: 13em;
+            margin-right: 1em;
+            float: left;
+        }
+        .feature-list div{
+            padding-left: 0;
+        }
 
+/*
 		@media screen and (min-width: 981px) {
 
 			.feature-list > .row > :nth-child(-n + 2) > section {
@@ -1855,6 +1864,7 @@ input, select, textarea {
 			}
 
 		}
+*/
 
 		.feature-list h3 {
 			color: #e97770 !important;
@@ -1863,6 +1873,7 @@ input, select, textarea {
 			letter-spacing: 0.05em;
 		}
 
+/*
 			.feature-list h3:before {
 				display: block;
 				color: #fff;
@@ -1877,6 +1888,7 @@ input, select, textarea {
 				left: 0;
 				margin-top: -0.5em;
 			}
+*/
 
 		.feature-list.small section {
 			padding-left: 3.5em;
@@ -1885,6 +1897,14 @@ input, select, textarea {
 		.feature-list.small h3:before {
 			font-size: 0.8em;
 		}
+
+        .feature-list h6 {
+			color: #000000 !important;
+			margin: 0 0 0 0;
+			font-size: 0.7em;
+			letter-spacing: 0.05em;
+		}
+
 
 /* Icons */
 
