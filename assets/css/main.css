@@ -2104,7 +2104,7 @@ input, select, textarea {
 		}
 
 		.homepage #header {
-			height: 35em;
+			height: 24em;
 		}
 
 /* Logo */
@@ -2498,16 +2498,16 @@ input, select, textarea {
 			}
 
 				#footer header.style1 {
-					padding-bottom: 4em;
-					margin-bottom: 4em;
+					padding-bottom: 1em;
+					margin-bottom: 0em;
 					border-bottom: solid 1px rgba(255, 255, 255, 0.05);
 				}
 
 		/* Copyright */
 
 			#copyright {
-				padding-top: 4em;
-				margin-top: 4em;
+				padding-top: 1em;
+				margin-top: 0em;
 			}
 
 	}
@@ -2577,7 +2577,7 @@ input, select, textarea {
 
 			#footer .feature-list {
 				border-top: solid 1px rgba(255, 255, 255, 0.05);
-				padding-top: 4em;
+				padding-top: 1em;
 			}
 
 	}
